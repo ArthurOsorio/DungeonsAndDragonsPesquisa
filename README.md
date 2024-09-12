@@ -5,7 +5,7 @@
 Já se pegou pensando "Qual arma combina mais com meu personagem?" ou "Qual item mágico seria perfeito para essa aventura?". O Inventário de D&D é a sua ferramenta definitiva para encontrar as respostas! 
 
 **Como funciona?**
-
+**(Itens Pesquisaveis: Adaga, Espada Longa, Arco Longo)**
 1. **Pesquise por itens:** Digite o nome do item que você procura na barra de pesquisa.
 2. **Explore os resultados:** Uma lista de itens relevantes será exibida, com detalhes como nome, descrição e links para mais informações.
 3. **Mergulhe no mundo de D&D:** Descubra novas armas, armaduras, poções e muito mais para enriquecer suas aventuras.
